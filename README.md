@@ -5,6 +5,6 @@ Technologies used:
 
 <li>HTML</li>
 <li>CSS</li>
-<li>JavaScript</li>
+<li>Vanilla JS</li>
 <li>Google Fonts</li>
 <li>FontAwesome</li>
