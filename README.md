@@ -8,3 +8,5 @@ Technologies used:
 <li>Vanilla JS</li>
 <li>Google Fonts</li>
 <li>FontAwesome</li>
+
+![image](https://github.com/saulgutierrez/quiz-app/assets/62368834/49bfd38d-3d7b-4455-b754-884fa0d5d006)
